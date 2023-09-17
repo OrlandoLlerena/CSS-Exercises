@@ -1,0 +1,14 @@
+.different {
+  background-color: black;
+  color: white;
+}
+
+.unique {
+  background-color: yellow;
+}
+
+.different,
+.unique {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
